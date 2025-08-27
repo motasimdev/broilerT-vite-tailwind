@@ -9,9 +9,13 @@ const Home = () => {
             <Flex>
                 <h1>this is home</h1>
                 {/* 
-                gitbash run--
+                cmd run--
 
                 del package-lock.json && rmdir /s /q node_modules && npm install 
+
+                gitbash run --
+
+                rm -f package-lock.json && rm -rf node_modules && npm install
 
                 */}
             </Flex>
